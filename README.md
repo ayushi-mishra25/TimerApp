@@ -3,10 +3,12 @@
 Setup Instructions
 -install npm
 install react native cli => npm install -g
-react-native-cli && npm install -g react-native (admin or sudo)
+react-native-cli && npm install -g react-native (sudo)
 react-native init TimerApp
 cd TimerApp
-react-native run-ios or run-android
+open the project to some codeeditor
+-use npx start
+-npx run android/npx react-native run-android   running the project
 
 
 List of Assuptions
